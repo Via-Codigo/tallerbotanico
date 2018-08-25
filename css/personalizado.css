@@ -1,0 +1,47 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.logo {
+  max-width: 75px;
+}
+.text-white {
+  color: white;
+}
+.footer-widget ul li a {
+  text-transform: none;
+}
+.centrar-texto {
+  text-align: center;
+}
+.centrar {
+  text-align: center;
+  margin-bottom: 50px;
+  text-decoration: underline;
+}
+.centran-link {
+  text-align: center;
+}
+.arriba-abajo {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+.title-categoria {
+  font-size: 30px;
+}
+.subtitle-producto {
+  font-size: 20px;
+}
+.bloque-invisible {
+  height: 100px;
+}
+
+@media (max-width: 768px) {
+  .escondido-mobile {
+    display: none;
+  }
+
+  .header-wrapper {
+    padding-top: 0;
+  }
+}
