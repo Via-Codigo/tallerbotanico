@@ -56,4 +56,13 @@ html {
   .header-wrapper {
     padding-top: 0;
   }
+
+  .banner-title-container {
+    margin: 80px 0;
+  }
+
+  .button.btn {
+    display: block;
+    margin: 20px auto;
+  }
 }
